@@ -1,0 +1,34 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    align-content: center;
+    padding: 35%;
+    padding-top: 50px;
+}
+
+.select {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.select:hover {
+    transform: scale(1.2);
+}
+
+h1 {
+    text-align: center;
+}
+
+.selection {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.results {
+    text-align: center;
+}
